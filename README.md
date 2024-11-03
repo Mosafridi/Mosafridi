@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java OOP Projects  
+Current Computer Science Studnet Based in Dublin with a background in IT support and a passion for building solutions that make a diffrent. I'm eager to connect , learn and contribute to open-source projects! 
 
 
 ## 🌐 Socials:
